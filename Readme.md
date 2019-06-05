@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Луиза  Мусаахунова](https://up.htmlacademy.ru/javascript/17/user/782461).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Харин](https://up.htmlacademy.ru/javascript/17/user/84972).
 
 ---
 
